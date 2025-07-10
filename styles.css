@@ -1,5 +1,5 @@
 body {
-    background-color: #17b888;
+    background-color: #06402b;
     margin: 0;
     overflow: hidden;
     display: flex;
@@ -32,7 +32,7 @@ body {
 
 .custom-line {
     height: 2px;
-    background-color: #6a066a;
+    background-color: #4a034a;
     margin: 10px 0;
 }
 
@@ -40,7 +40,7 @@ h1 {
     text-align: center;
     margin: 0;
     flex-shrink: 0;
-    color: #332103;
+    color: #2e1d03;
 }
 
 .input-container {
@@ -59,8 +59,8 @@ h1 {
 
 .add-button {
     padding: 10px 20px;
-    background-color: #17b888;
-    color: #332103;
+    background-color: #06402b;
+    color: white;
     border-radius: 10px;
     cursor: pointer;
     font-size: 16px;
